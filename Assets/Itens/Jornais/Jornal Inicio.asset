@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfff1bd7ca38bea43aaf198e7a6d8e64, type: 3}
+  m_Name: Jornal Inicio
+  m_EditorClassIdentifier: 
+  inspecionavel: 1
+  coletavel: 0
+  imgInventario: {fileID: 0}
+  idInventario: 0
+  audioClip: {fileID: 8300000, guid: 041bfda27d5585944a48ca9abf2a4a71, type: 3}
+  audiocolect: {fileID: 8300000, guid: 48c4a2c80c01f0140966f5260bda408e, type: 3}
+  Text: "Jornal datado de 1907, anunciando o inicio das constru\xE7\xF5es da ferrovia
+    madeira-mamor\xE9, depois de inumeras tentativas frustradas."
